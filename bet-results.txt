@@ -1,0 +1,18 @@
+------------------Results-------------------
+####################################
+Customer name: Aris
+Customer money paid: 200
+Customer gains: 590.0
+####################################
+Customer name: Bill
+Customer money paid: 600
+Customer gains: 0.0
+####################################
+Customer name: Nick
+Customer money paid: 1000
+Customer gains: 2950.0
+####################################
+Customer name: Chara
+Customer money paid: 100
+Customer gains: 0.0
+--------------End-of-Results----------------
